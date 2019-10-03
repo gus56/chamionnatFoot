@@ -9,7 +9,7 @@ A.1 Début de championnat
 - Supprimer les résultats de la feuille ‘Barrages’.
 
 
-A.2 Feuille Classement	
+A.2 Feuille Classement
 	La feuille classement est principalement un feuille de consultation. Elle est composée de trois classements différents : Classement général, classement domicile et classement extérieur. Chaque classement est composé du tableau de classement, la meilleure attaque et défense, ainsi que la pire attaque et défense. Deux boutons sont aussi présents, pour se rendre aux deux autres classements (que l’on peut aussi atteindre en montant ou descendant la feuille). Ces boutons ont été calibrés pour un écran de 43,9 cm. Avec un écran d’une autre taille, ces boutons n’afficheront pas les autres classements en entier.
 	À droite du classement général se trouve un bouton ‘Classement’. Ce bouton permet de classer les différents tableaux de la page. Si les chiffres sont mis à jour automatiquement, il est nécessaire de cliquer sur ce bouton pour avoir un classement à jour.
 	À droite du bouton ‘Classement’ se trouve un tableau avec deux colonnes ‘Équipes’ et ‘Sigle’. La modification des noms des équipes ou de leur sigle se fait UNIQUEMENT dans ce tableau, et nulle part ailleurs dans le classeur. Attention à ne pas mettre deux fois le même nom d’équipe ou le même sigle.
